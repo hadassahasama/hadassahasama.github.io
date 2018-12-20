@@ -1,1 +1,39 @@
-m
+@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+
+  h1 {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 24px;
+    color: cyan;
+    text-shadow: 0 3px 0 gray;
+    text-align: center;
+    border: 5px dotted red;
+  }
+  h2 {
+    font-family: 'Varela Round', sans-serif;
+    color: cyan;
+    text-align: center;
+    border: 5px dotted red;
+  }
+  footer {
+    font-family: 'Varela Round', sans-serif;
+    color: cyan;
+    text-align: center;
+    border: 5px dotted red;
+  }
+  html {
+    width: 320px;
+    margin: 0 auto 0 auto;
+    font: 18px 'Comic Sans MS', cursive;
+    background-image: url(/images/textures/light10a.png);
+    background-color: aqua;
+  }
+  a:hover {
+    color: cyan;
+  }
+  img {
+    border: 5px solid red;
+  }
+  
+  ul {
+    list-style-image: url(/images/icons/icon1.png);
+  }
