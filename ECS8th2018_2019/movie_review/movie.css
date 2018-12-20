@@ -3,14 +3,14 @@
   h1 {
     font-family: 'Varela Round', sans-serif;
     font-size: 24px;
-    color: cyan;
+    color: red;
     text-shadow: 0 3px 0 gray;
     text-align: center;
     border: 5px dotted red;
   }
   h2 {
     font-family: 'Varela Round', sans-serif;
-    color: cyan;
+    color: red;
     text-align: center;
     border: 5px dotted red;
   }
