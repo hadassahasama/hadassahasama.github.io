@@ -10,7 +10,6 @@ img {
   border-style: inset; 
   border-width: 4px;
   border-color: mediumSlateBlue;
-	
   width: 115px; 
 }
 
@@ -25,7 +24,19 @@ h1 {
 
 header {
   text-align: center; 
+}
 
 a {
-  text-decoration: none;	 
+  text-decoration: none;
+  color: purple;	
 }
+
+a:hover {
+	text-decoration: underline;
+	color: pink;
+}
+
+a:visited {
+	text-decoration: underline;
+	color: pink;
+	
